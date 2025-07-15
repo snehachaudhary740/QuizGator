@@ -1,45 +1,50 @@
-📘 Project Description:
-Quiz Gator is a dynamic and user-friendly online quiz platform designed to create, manage, and take quizzes with ease. It serves as a digital solution for educators, trainers, and students to engage in interactive learning and assessment.
+# Welcome to my project
 
-The platform allows administrators or teachers to create custom quizzes with various question types such as multiple choice, true/false, and short answers. Users can take timed quizzes, view instant feedback, and track their performance with detailed analytics.
+There are several ways of editing your application.
 
-Whether used in a classroom, corporate training, or competitive exam preparation, Quiz Gator streamlines the entire quiz process — from question creation to result analysis — with an intuitive interface and real-time performance tracking.
 
-⭐ Key Features:
-User registration and login system
+**Use your preferred IDE**
 
-Quiz creation with multiple question types
 
-Timer and automatic submission
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Scoring system with instant feedback
+Follow these steps:
 
-Leaderboards and performance analytics
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-Question randomization and shuffling
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-Admin dashboard for quiz and user management
+# Step 3: Install the necessary dependencies.
+npm i
 
-Mobile-responsive design
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-🎯 Project Goals:
-Simplify online quiz creation and participation
+**Edit a file directly in GitHub**
 
-Promote interactive and gamified learning
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-Provide instant results and performance insights
+**Use GitHub Codespaces**
 
-Support remote learning and testing environments
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-Enhance user engagement through visual feedback and leaderboards
+## What technologies are used for this project?
 
-🛠️ Tech Stack (Example):
-Frontend: React.js / Vue.js / HTML, CSS, JS
+This project is built with .
 
-Backend: Node.js / Express / Django
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-Database: MongoDB / Firebase / MySQL
-
-Authentication: Firebase Auth / JWT
-
-Extras: Chart.js for analytics, Bootstrap/Tailwind for UI
